@@ -1,6 +1,3 @@
-index
-# lousa-fisca
-importador XML1
 import React, { useState } from "react";
 
 export default function ImportadorXML({ onVoltar }) {
